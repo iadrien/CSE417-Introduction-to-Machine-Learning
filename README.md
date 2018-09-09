@@ -1,6 +1,6 @@
 # CSE417 Data Mining Fall 2018 @WUSTL
 
-## Neutral Network (Autoencoder decimal to binary) built in Python
+## Neutral Network (Autoencoder decimal to binary) built in Python using Keras
 
 #### The input layers and the output layers all have 16 nodes. Sigmod function (i.e., f(x) = 1/(1+e^(-x))) is used for perceptron activation 
 ###### 1.	A 3-layer NN (with layers for input, hidden and output). The hidden layer has 5 perceptrons. 
